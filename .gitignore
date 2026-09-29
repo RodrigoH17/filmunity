@@ -1,0 +1,24 @@
+# Gradle
+.gradle/
+build/
+/captures
+.externalNativeBuild
+.cxx
+
+# Android Studio / IntelliJ
+.idea/
+*.iml
+local.properties
+
+# Signing keys
+*.jks
+*.keystore
+
+# Release outputs (publish the APK as a GitHub Release instead)
+*.apk
+*.aab
+app/release/
+
+# OS
+.DS_Store
+Thumbs.db

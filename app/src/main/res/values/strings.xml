@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">FilmUnity</string>
+    <string name="discover_your">Descobre o teu</string>
+    <string name="favorite_show">Filme Favorito</string>
+    <string name="watch">Vê Agora ou Mais tarde</string>
+    <string name="browse">podes navegar por filmes e programas por género, pesquisar títulos específicos ou verificar a nossa recomendação</string>
+    <string name="get_started">Começar</string>
+    <string name="start">Start</string>
+    <string name="start2">Start2</string>
+
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="forget_your_password">Esqueceu a sua Password?</string>
+    <string name="don_t_have_an_account">Não tem uma conta?</string>
+    <string name="register_now">Registe-se Agora</string>
+
+    <string name="search_movies">Procurar Filmes…</string>
+    <string name="best_movies">Melhores Filmes</string>
+    <string name="category">Categoria</string>
+    <string name="upcoming_movies">Próximos filmes</string>
+    <string name="explorer">Explorer</string>
+    <string name="favorite">Favorito</string>
+    <string name="cart">Carrinho</string>
+    <string name="profile">Perfil</string>
+
+    <string name="TitleTxt">TitleTxt</string>
+    <string name="summary">Resumo</string>
+    <string name="actors">Atores</string>
+
+    <string name="registo">Registo</string>
+    <string name="nome">Nome</string>
+    <string name="email">Email</string>
+    <string name="confirmar_password">Confirmar Password</string>
+    <string name="registar">Registar</string>
+    <string name="j_tem_uma_conta_fa_a_login">Já tem uma conta? Faça login</string>
+    <string name="voice_search">Pesquisar por voz</string>
+
+    <string name="sobre">Sobre</string>
+    <string name="info_titulo">Informações do Projeto</string>
+    <string name="info_curso">Curso: Engenharia Informática</string>
+    <string name="info_disciplina">Disciplina: Desenvolvimento de Aplicações Móveis</string>
+    <string name="info_ano">Ano Letivo: 2024/2025</string>
+    <string name="info_autores">Autores:\nGonçalo Henriques 21590\nRodrigo Henriques 25268</string>
+    <string name="fechar">Fechar</string>
+    <string name="email_login">Email</string>
+    <string name="email_profile">Email:</string>
+    <string name="logout">Logout</string>
+    <string name="nome_profile">Nome:</string>
+    <string name="alterar_foto">Alterar Foto</string>
+    <string name="perfil">Perfil</string>
+    <string name="_0">0</string>
+    <string name="textview">TextView</string>
+    <string name="test">test</string>
+    <string name="permiss_o_de_udio_necess_ria_para_pesquisa_por_voz">Permissão de áudio necessária para pesquisa por voz</string>
+
+</resources>
