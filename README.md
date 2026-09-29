@@ -69,7 +69,6 @@ On first launch, create an account on the registration screen and log in.
 * The user interface is in Portuguese
 * `index.html` contains the app's privacy policy, written for the Google Play Store submission
 * Build outputs, signing keys and APK files are ignored via `.gitignore`
-* Original repository: https://github.com/goncalohenriques48/Filmes
 
 ---
 
